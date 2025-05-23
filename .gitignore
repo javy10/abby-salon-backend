@@ -3566,3 +3566,5 @@ Thumbs.db
 /.idea
 /.nova
 /.
+
+.vercel
