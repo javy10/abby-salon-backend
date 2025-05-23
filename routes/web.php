@@ -45,4 +45,6 @@ Route::middleware(['auth', 'verified'])->group(function () {
 require __DIR__.'/settings.php';
 require __DIR__.'/auth.php';
 
+// Elimina la sección de API para opiniones que estaba aquí
+
 
